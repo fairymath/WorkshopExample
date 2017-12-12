@@ -14,6 +14,8 @@ A small github repo used as an example for the coding workshop!
 To use this framework you will need to:
 
 
+
+
 1. Replace my email (karlie.noon@anu.edu.au) with your own.
 2. Replace all instances of fairymath & fairymath, with your own username (case insensitive replace).
 3. Replace my name (karlie noon) with yours (used in the doc and license).
